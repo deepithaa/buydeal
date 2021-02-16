@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Vodafone+€10+voor",
+    "title":"Vodafone €10 voor",
+    "category":"vodafone",
+    "price":4.75,
+    "description":"Vodafone €10 beltegoed<br><br>OpwaardeerInstructies :<br>1. Toets *102*opwaardeercode# daarna druk op de verzendtoets<br>2. of Bel gratis 1200 en volg het menu.<br><br>Klantenservice Vanuit vodafone toestel 1200 Vanuit andere toestel 0654500100",
+
+    "image":"images/vodafone.png",
+    "largeImage":"images/vodafone.png"
+  },
+  {
+    "name":"Vodafone+€20+voor",
+    "title":"Vodafone €20 voor",
+    "category":"vodafone",
+    "price":9.50,
+    "description":"Vodafone €10 beltegoed<br><br>OpwaardeerInstructies :<br>1. Toets *102*opwaardeercode# daarna druk op de verzendtoets<br>2. of Bel gratis 1200 en volg het menu.<br><br>Klantenservice Vanuit vodafone toestel 1200 Vanuit andere toestel 0654500100",
+    "image":"images/vodafone.png",
+    "largeImage":"images/vodafone.png"
+  }
+  
+]

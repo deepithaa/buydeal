@@ -1,0 +1,21 @@
+[
+  {
+    "name":"Telesur+€10+voor",
+    "title":"Telesur €10 voor",
+    "category":"ladies_tshirts",
+    "price":9.60,
+    "description":"Telesur €10<br><br>Opwaardeer Instructions:<br>Toets *100*opwaardeercode# en daarna druk op de verzend toets.<br>Om je beltegoed te controlleren, toets *101# en druk op verzenden.je beltegoed<br>verschijnt in het display van je telefoon.<br>Klanten service :<br>Vanuit telesur toestel 1200<br>Vanuit andere toestel 09002021914",
+    "image":"images/telesur.png",
+    "largeImage":"images/telesur.png"
+  },
+  {
+    "name":"Telesur+€20+voor",
+    "title":"Telesur €20 voor",
+    "category":"ladies_tshirts",
+    "price":19.50,
+    "description":"Telesur €20<br><br>Opwaardeer Instructions:<br>Toets *100*opwaardeercode# en daarna druk op de verzend toets.<br>Om je beltegoed te controlleren, toets *101# en druk op verzenden.je beltegoed<br>verschijnt in het display van je telefoon.<br>Klanten service :<br>Vanuit telesur toestel 1200<br>Vanuit andere toestel 09002021914",
+    "image":"images/telesur.png",
+    "largeImage":"images/telesur.png"
+  }
+  
+]

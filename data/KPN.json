@@ -1,0 +1,29 @@
+[
+  {
+    "name":"Kpn+€10+voor",
+    "title":"Kpn €10 voor",
+    "category":"KPN",
+    "price":9.90,
+    "description":"KPN €10<br><br>Opwaardeer Instructions:<br>1. Bel gratis 1244 en volg de instructies in het menu<br>2. Toets 9 en daarna voer de pin code (zonder streepjes)en sluit af met een # of make een sms met pin code (zonder streepjes) en stuur de sms naar 1266<br><br>Klantenservice Vanuit kpn toestel:1200 Vanuit vast lijn: 0612001200 www.kpn.nl",
+    "image":"data/images/kpn_10.png",
+    "largeImage":"data/images/kpn_10.png"
+  },
+  {
+    "name":"Kpn+€15+voor",
+    "title":"Kpn €15 voor",
+    "category":"KPN",
+    "price":14.50,
+    "description":"KPN €15<br><br>Opwaardeer Instructions:<br>1. Bel gratis 1244 en volg de instructies in het menu<br>2. Toets 9 en daarna voer de pin code (zonder streepjes)en sluit af met een # of make een sms met pin code (zonder streepjes) en stuur de sms naar 1266<br><br>Klantenservice Vanuit kpn toestel:1200 Vanuit vast lijn: 0612001200 www.kpn.nl",
+    "image":"data/images/kpn_15.png",
+    "largeImage":"data/images/kpn_15.png"
+  },
+  {
+    "name":"Kpn+€20+voor",
+    "title":"Kpn €20 voor",
+    "category":"KPN",
+    "price":19.30,
+    "description":"KPN €10<br><br>Opwaardeer Instructions:<br>1. Bel gratis 1244 en volg de instructies in het menu<br>2. Toets 9 en daarna voer de pin code (zonder streepjes)en sluit af met een # of make een sms met pin code (zonder streepjes) en stuur de sms naar 1266<br><br>Klantenservice Vanuit kpn toestel:1200 Vanuit vast lijn: 0612001200 www.kpn.nl",
+    "image":"data/images/kpn_20.png",
+    "largeImage":"data/images/kpn_20.jpg"
+  }
+  ]

@@ -1,0 +1,21 @@
+[
+  {
+    "name":"Ortel+€5+voor",
+    "title":"Ortel €5 voor",
+    "category":"Ortel",
+    "price":4.95,
+    "description":"Ortel €5 beltegoed.<br><br>To quick topup 1) Bell 1244 2) Select 9 enter topup code and press #<br>OpwaardeerInstructies :<br>1. Bel gratis naar 1244 en kies voor optie 9 in het menu. Toets uw opwaardeercode in en sluit af met #.<br>2. Om je beltegoed te controlleren, Bel *101# (gratis) en in een paar seconden ontvangt u een SMS boodschap met het resterende beltegoed en tot wanneer deze geldig is<br>3) klantenservice. Bel gratis 1200 van je Ortel toestel.",
+    "image":"data/images/ortel_5.png",
+    "largeImage":"data/images/ortel_5.png"
+  },
+  {
+    "name":"Ortel+€10+voor",
+    "title":"Ortel €10 voor",
+    "category":"Ortel",
+    "price":9.75,
+    "description":"Ortel €10 beltegoed.<br><br>To quick topup 1) Bell 1244 2) Select 9 enter topup code and press #<br>OpwaardeerInstructies :<br>1. Bel gratis naar 1244 en kies voor optie 9 in het menu. Toets uw opwaardeercode in en sluit af met #.<br>2. Om je beltegoed te controlleren, Bel *101# (gratis) en in een paar seconden ontvangt u een SMS boodschap met het resterende beltegoed en tot wanneer deze geldig is<br>3) klantenservice. Bel gratis 1200 van je Ortel toestel.",
+    "image":"data/images/ortel_10.png",
+    "largeImage":"data/images/ortel_10.png"
+  }
+  
+]
