@@ -63,26 +63,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <script>
     window.performance && performance.mark && performance.mark('index.html');
   </script>
-<div class="w3-container">
- 
-  <button style="position: absolute; right: 10px;width:150px;bottom:20px;" onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black w3-large" >Chat</button>
-
-  <div id="id01" class="w3-modal">
-    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:600px">
-
-      <div class="w3-center"><br>
-        <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-xlarge w3-hover-red w3-display-topright" title="Close Modal">&times;</span>
-        <iframe id="myFrame" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/b8bb8498-e3e7-40c3-919e-a6e573d15021" width="350" height="430" style="border:none;">
-
-</iframe>
-
-     
-       
-      </div>
-
-    </div>
-  </div>
-</div>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https:&#x2F;&#x2F;storage.googleapis.com&#x2F;cloudprod-apiai&#x2F;d8eed29d-e09f-478f-9b55-2e64b4b4a72b_x.png"
+  chat-title="CustomerSupport-Bot"
+  agent-id="b8bb8498-e3e7-40c3-919e-a6e573d15021"
+  language-code="en"
+></df-messenger>
 </body>
    
 </html>
